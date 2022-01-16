@@ -4,7 +4,7 @@ Docker-composeでVue/Nuxt.jsを環境構築
 ## 手順
 1, 「Dockerfile」と「docker-compose.yml」を作成・記述<br>
 2, ターミナルで「$ docker-compose build」<br>
-3, 続いて「$ docker-compose run --rm nuxt npx create-nuxt-app」
+3, 続いて「$ docker-compose run --rm nuxt npx create-nuxt-app」　
 4, 下記の「設定」をやる<br>
 5, 「docker-compose up -d」<br>
 6, 「localhost:3000」にアクセス
